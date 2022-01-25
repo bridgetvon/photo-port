@@ -28,7 +28,7 @@ function categorySelected(name){
         <header>
             <h2>
                 <a data-testid="link" href="/">
-                    <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+                    <span role="img" aria-label="camera"> 📸 </span>Oh Snap!
                 </a>
             </h2>
             <nav>
